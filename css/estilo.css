@@ -1,0 +1,15 @@
+.paginacion {
+    background-color: #1434ee;
+    height: 30px;
+    max-width: 120px;
+    min-width: 40px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.paginacion:hover {
+    color:rgb(182, 178, 178);
+}
